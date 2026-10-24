@@ -3,7 +3,7 @@
 A responsive personal portfolio website for Moiz Abdullah, a BS Computer Science student at UVAS Lahore focused on web development and data science.
 
 ## Features
-
+ 
 - Responsive layout for desktop and mobile screens
 - Light and dark theme switching with saved preference
 - Mobile navigation menu
