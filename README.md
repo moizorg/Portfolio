@@ -25,8 +25,8 @@ Open `index.html` directly in a browser, or serve the folder with any static web
 python -m http.server
 ```
 
-Then visit `mypersonalportfolioorg.netlify.app`.
+Then visit [mypersonalportfolioorg.vercel.app](https://mypersonalportfolioorg.vercel.app).
 
 ## Deployment
 
-This is a static website and can be deployed with GitHub Pages, Netlify, Vercel, or any other static hosting provider.
+The portfolio is deployed on Vercel at [mypersonalportfolioorg.vercel.app](https://mypersonalportfolioorg.vercel.app).
