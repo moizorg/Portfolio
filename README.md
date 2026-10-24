@@ -25,7 +25,7 @@ Open `index.html` directly in a browser, or serve the folder with any static web
 python -m http.server
 ```
 
-Then visit `http://localhost:8000`.
+Then visit `mypersonalportfolioorg.netlify.app`.
 
 ## Deployment
 
